@@ -1,7 +1,5 @@
 <html>
     <head>
-        <title>Activity1</title>
-    </head>
     <body>
         <ul> 
            <li>MATHEMATICS</li>
@@ -37,4 +35,5 @@
 		 </ol>
 	   </ul>
     </body>
+    </head>
 </html>
